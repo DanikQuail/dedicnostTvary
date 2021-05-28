@@ -21,4 +21,24 @@ public class Shape {
     public float vypocetObsahu() {
         return -1;
     }
+
+    public float getA() {
+        return a;
+    }
+
+    public float getB() {
+        return b;
+    }
+
+    public float getC() {
+        return c;
+    }
+
+    public float getVyska() {
+        return vyska;
+    }
+
+    public float getPolomer() {
+        return polomer;
+    }
 }
